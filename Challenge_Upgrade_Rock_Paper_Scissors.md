@@ -1,4 +1,3 @@
-````markdown
 # 🎮 Challenge — Upgrade Rock Paper Scissors
 
 Kamu sudah berhasil membuat game **Rock Paper Scissors (Batu, Gunting, Kertas)**.
@@ -21,7 +20,7 @@ Pilihan kamu: apel
 Pilihan komputer: batu
 
 Kamu menang!
-````
+```
 
 Perbaiki program agar pemain **harus memasukkan pilihan yang valid**.
 
